@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gallery_bg_color">#FFF</color>
+    <color name="gallery_font_color">#151515</color>
+</resources>
